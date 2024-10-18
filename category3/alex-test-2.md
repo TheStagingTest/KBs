@@ -4,8 +4,8 @@ title: Title of the post
 menu_order: 1
 post_status: pending
 post_excerpt: This is a post excerpt
-kb:
-    category:
+taxonomy:
+    kb:
         - category-slug-1
         - category-slug-2        
 ---
