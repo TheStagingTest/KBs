@@ -1,4 +1,3 @@
-<!--
 ---
 
 title: My GitBook Article 2
@@ -11,7 +10,8 @@ taxonomy:
         - category-slug-2 
         
 ---
--->
+
+<!-- Hidden data -->
 
 ## My post content
 
