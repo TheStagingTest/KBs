@@ -7,7 +7,8 @@ post_excerpt: This is a post excerpt
 taxonomy:
     kb_category:
         - category-slug-1
-        - category-slug-2        
+        - category-slug-2 
+        
 ---
 
 ## My post content
