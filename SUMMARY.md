@@ -20,3 +20,4 @@
   * [file-b3](category3/file-b3.md)
   * [Our patrons](category3/file-c4.md)
   * [GitBook Test](category3/gitbook-test.md)
+  * [Test Alex](category3/test-alex.md)
