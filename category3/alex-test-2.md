@@ -1,6 +1,6 @@
 ---
 
-title: My GitBook Article 2
+title: My GitBook Article 3
 menu_order: 1
 post_status: pending
 post_excerpt: This is a post excerpt
