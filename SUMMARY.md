@@ -19,3 +19,4 @@
   * [Get-IniValue](category3/file-a3.md)
   * [file-b3](category3/file-b3.md)
   * [Our patrons](category3/file-c4.md)
+  * [GitBook Test](category3/gitbook-test.md)
