@@ -2,7 +2,7 @@
 
 Test content
 
-```
+```yaml
 ---
 
 title: My GitBook Article 2
