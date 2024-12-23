@@ -2,7 +2,7 @@
 
 * [Community Scripts](README.md)
 * [Application Management](application-management/README.md)
-  * [Security Policy](<Application Management/file-name-here.md>)
+  * [Security Policy](application-management/file-name-here.md)
 * [category1](category1/README.md)
   * [file-a](category1/file-a.md)
   * [API Documentation](category1/file-b.md)
