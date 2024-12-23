@@ -1,5 +1,6 @@
 
 ---
+
 sidebar_position: 1
 title: '💈 How to Deploy'
 description: 'How to leverage the zero-configuration feature for zero-effort deployments.'
@@ -8,6 +9,7 @@ hide_title: true
 tags:
   - Usage
   - How to Deploy
+    
 ---
 
 # How to Deploy
