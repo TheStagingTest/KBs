@@ -2,6 +2,7 @@
 
 Test content
 
+{% code overflow="wrap" %}
 ```yaml
 ---
 
@@ -16,4 +17,5 @@ taxonomy:
         
 ---
 ```
+{% endcode %}
 
