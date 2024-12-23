@@ -1,7 +1,5 @@
 # GitBook Test
 
-Test content
-
 ```yaml
 ---
 
@@ -16,4 +14,6 @@ taxonomy:
         
 ---
 ```
+
+Test content
 
