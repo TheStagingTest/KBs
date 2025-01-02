@@ -3,7 +3,7 @@
 ```yaml
 ---
 
-title: My GitBook Article TEST
+title: My GitBook Article TEST 2
 menu_order: 1
 post_status: pending
 post_excerpt: This is a post excerpt
