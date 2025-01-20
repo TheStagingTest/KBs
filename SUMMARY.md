@@ -1,6 +1,7 @@
 # Table of contents
 
-* KBS
+* [README](README.md)
+* [KBS](kbs/README.md)
   * [Best Practices for Advanced Insights](kbs/best-practices-for-advanced-insights.md)
-* Docs
+* [Docs](docs/README.md)
   * [Creating your first Custom Dashboard](docs/creating-your-first-custom-dashboard.md)
