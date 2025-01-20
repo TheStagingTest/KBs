@@ -1,6 +1,2 @@
----
-noIndex: true
----
-
 # KBS
 
