@@ -4,7 +4,9 @@ description: Learn essential best practices to get the most out of Advanced Insi
 
 # Best Practices for Advanced Insights
 
-<pre class="language-yaml"><code class="lang-yaml"><strong>title: Best Practices for Advanced Insights
+<pre class="language-yaml"><code class="lang-yaml">---
+
+<strong>title: Best Practices for Advanced Insights
 </strong>menu_order: 1
 post_status: publish
 post_excerpt: Key best practices for using Advanced Insights effectively.
@@ -14,5 +16,7 @@ taxonomy:
     kbs-category:
     - advanced-insights-and-patch-insights
     - best-practices
+    
+---
 </code></pre>
 
