@@ -28,5 +28,5 @@ taxonomy:
 ---
 ```
 
-Post content
+Post content 2
 
