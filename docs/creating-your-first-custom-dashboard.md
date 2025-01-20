@@ -23,7 +23,7 @@ taxonomy:
     - administration    
     - dashboard-guides    
     - custom-dashboards
-tags: Reporting, Insights, Dashboard
+    post_tag: Reporting, Insights, Dashboard
 
 ---
 ```
