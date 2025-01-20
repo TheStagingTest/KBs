@@ -4,19 +4,21 @@ description: Learn essential best practices to get the most out of Advanced Insi
 
 # Best Practices for Advanced Insights
 
-<pre class="language-yaml"><code class="lang-yaml">---
-
-<strong>title: Best Practices for Advanced Insights
-</strong>menu_order: 1
-post_status: publish
-post_excerpt: Key best practices for using Advanced Insights effectively.
-wpseo_title: Advanced Insights Best Practices
-wpseo_metadesc: Learn essential best practices to get the most out of Advanced Insights
-taxonomy:
-    kbs-category:
-    - advanced-insights-and-patch-insights
-    - best-practices
-    
+```yaml
 ---
-</code></pre>
+
+title: Title of the post
+menu_order: 1
+post_status: publish
+post_excerpt: This is a post excerpt
+taxonomy:
+    kb-category:
+        - advanced-insights-and-patch-insights
+        - best-practices
+    post_tag:
+        - tag-1
+        - tag-2
+
+---
+```
 
