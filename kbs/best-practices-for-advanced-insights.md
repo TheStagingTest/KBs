@@ -14,6 +14,7 @@ taxonomy:
     kbs-category:
     - advanced-insights-and-patch-insights
     - best-practices
+    - dashboard-guides
 
 ---
 ```
