@@ -11,7 +11,7 @@ wpseo_title: Custom Dashboards for Patch Insights
 wpseo_metadesc: Learn how to set up and use custom dashboards for advanced insights
 taxonomy:
     category:
-    - advanced-insights
+    - docs-advanced-insights
     - administration
     - dashboard-guides
     - custom-dashboards
