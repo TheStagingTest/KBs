@@ -1,10 +1,4 @@
----
-description: Learn how to set up and use custom dashboards for advanced insights.
----
-
 # Creating your first Custom Dashboard
-
-
 
 ```yaml
 ---
@@ -29,5 +23,5 @@ taxonomy:
 ---
 ```
 
-Post content 2
+Post content
 
