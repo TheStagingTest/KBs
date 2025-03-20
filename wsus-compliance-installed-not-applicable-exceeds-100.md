@@ -1,4 +1,25 @@
-# Page 1
+# WSUS Compliance – Installed / Not Applicable Exceeds 100%
+
+```yaml
+
+---
+​
+title: WSUS Compliance – Installed / Not Applicable Exceeds 100%
+menu_order: 1
+post_status: publish
+post_excerpt: Overview of how to create custom dashboards
+wpseo_title: Custom Dashboards for Patch Insights
+wpseo_metadesc: Learn how to set up and use custom dashboards for advanced insights
+taxonomy:
+    category:
+    - kbs
+    post_tag:
+    - reporting
+    - insights
+    - dashboard
+​
+---
+```
 
 ## WSUS Compliance – Installed / Not Applicable Exceeds 100% <a href="#wsuscomplianceinstallednotapplicableexceeds100" id="wsuscomplianceinstallednotapplicableexceeds100"></a>
 
