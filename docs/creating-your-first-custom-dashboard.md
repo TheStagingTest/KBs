@@ -21,3 +21,7 @@ taxonomy:
 ```
 
 Post content
+
+```
+// Some code
+```
