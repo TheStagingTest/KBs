@@ -66,7 +66,7 @@ But instead of 99% it indicates the Installed/Not Applicable percentage is 110%
 
 **The reason this occurs is because the Not Applicable count data is not summarised correctly for some computers.**
 
-### Cause <a href="#cause" id="cause"></a>
+#### Cause <a href="#cause" id="cause"></a>
 
 We can see the summarization data that causes the anomoly by viewing data in the **tbComputerSummaryForMicrosoftUpdates** table.
 
