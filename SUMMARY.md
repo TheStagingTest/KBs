@@ -13,3 +13,8 @@
 ***
 
 * [WSUS Compliance – Installed / Not Applicable Exceeds 100%](wsus-compliance-installed-not-applicable-exceeds-100.md)
+
+## Events
+
+* [Event category](events/event-category/README.md)
+  * [Some post](events/event-category/some-post.md)
