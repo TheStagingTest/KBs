@@ -18,3 +18,5 @@
 
 * [Event category](events/event-category/README.md)
   * [Some post](events/event-category/some-post.md)
+* [Event cat 2](events/event-cat-2/README.md)
+  * [Some post 2](events/event-cat-2/some-post-2.md)
