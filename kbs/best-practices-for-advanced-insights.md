@@ -11,9 +11,9 @@ wpseo_title: Advanced Insights Best Practices
 wpseo_metadesc: Learn essential best practices to get the most out of Advanced Insights
 taxonomy:
     category:
-        kb:
-            advanced-insights-and-patch-insights:
-                best-practices:
+    - kb
+    - advanced-insights-and-patch-insights
+    - best-practices
 
 ---
 ```
