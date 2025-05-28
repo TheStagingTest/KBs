@@ -12,8 +12,7 @@ wpseo_metadesc: Learn essential best practices to get the most out of Advanced I
 taxonomy:
     category:
     - knowledge-base
-    - home-updater
-    - best-practices
+    - home-updater - best-practices
 
 ---
 ```
